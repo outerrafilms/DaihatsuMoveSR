@@ -1,0 +1,12 @@
+{
+	"obj" : "DaihatsuMoveSR", 
+	"matlib" : "DaihatsuMoveSR", 
+	"lod_curve" : 850.0, 
+	"lod_curve1" : 300.0, 
+	"physics" : "vehicle", 
+	"script" : "DaihatsuMoveSR.js", 
+	"description" : "Daihatsu Move SR", 
+	"parameters" : "", 
+	"fdm_root_dir" : "", 
+	"tags" : "", 
+	"variants" : []}
